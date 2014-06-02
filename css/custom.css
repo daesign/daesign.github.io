@@ -35,16 +35,15 @@
 	color: white;
 }
 .navbar-inverse .navbar-toggle {
-	color: white;
-	font-weight: bold;
-	border-color: white;
+	color: #999;
+	border-color: #999;
 }
 .navbar-inverse .navbar-toggle:hover {
 	background-color: #ddd;
 	color: #333;
 }
 .navbar-inverse .navbar-toggle .glyphicon {
-	color: white;
+	color: #999;
 }
 .navbar-inverse .navbar-toggle:hover .glyphicon {
 	color: #333;
